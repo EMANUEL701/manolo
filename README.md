@@ -1,4 +1,14 @@
-# manolo
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/style.css">
+    <title>Flashcard</title>
+</head>
+<body>
+    <main>
+        <section id="container"# manolo
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -49,103 +59,33 @@
                 <li>Aumento das enchentes e erosão do solo</li>
                 <li>Aumento das temperaturas e mudanças climáticas</li>
                 <li>Perda da biodiversidade</li>
-                <li>Redução da qualidade de vida nas cidades</li>
-                <li>Agravamento de problemas de saúde</li>
-                <li>Impacto na economia de comunidades locais</li>
-            </ul>
+>
+            <article class="cartao">
+                <div class="cartao__conteudo">
+                    <h3>Programação</h3>
+                    <div class="cartao__conteudo__pergunta">
+                        O que é JavaScript?
+                    </div>
+                    <div class="cartao__conteudo__resposta">
+                        O JavaScript é uma linguagem de programação
+                    </div>
+                </div>
+            </article>
+            <article class="cartao">
+                <div class="cartao__conteudo">
+                    <h3>Programação</h3>
+                    <div class="cartao__conteudo__pergunta">
+                        O que é CSS?
+                    </div>
+                    <div class="cartao__conteudo__resposta">
+                        O CSS é uma linguagem de estilização
+                    </div>
+                </div>
+            </article>
         </section>
-
-        <section id="conclusao" class="conteudo">
-            <h2>Conclusão</h2>
-            <p>O desmatamento impacta diretamente a vida humana. Para evitar suas consequências, é necessário preservar o meio ambiente, investir em reflorestamento e adotar práticas sustentáveis.</p>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/ILh7nDEKGqc?si=feol6sZCHo1Cg-jQ" title="YouTube video.">
-        </section>
-
     </main>
-
     <footer>
-        <a href="https://www.linkedin.com/in/femascheti" class="cta-footer">Faça parte dessa causa!</a>
-        <p>2025 | @femascheti</p>
+        <p>Projeto desenvolvido pela Alura, sem fins lucrativos</p>
     </footer>
 </body>
-</html>****
-@import url('https://fonts.googleapis.com/css2?family=Chocolate+Classical+Sans&family=Rakkas&display=swap');
-
-/* Variáveis */
-:root {
-    --primary-color: #026773;
-    --secondary-color: #3CA6A6;
-    --text-color: #024959;
-    --background-color: #F2E3D5;
-    --button-hover: #012E40;
-    --font-body: "Chocolate Classical Sans", serif;
-    --font-titulo: "Rakkas", serif;
-}
-/* código omitido */
-
-/* Reset */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: var(--font-body);
-}
-
-/* Corpo da página */
-body {
-    background-color: var(--background-color);
-    color: var(--text-color);
-    line-height: 1.6;
-}
-
-h3 {
-    margin-top: 25px;
-}
-
-p {
-    margin-top: 20px;
-}
-
-img {
-    max-width: 90%;
-}
-
-/* código omitido */<!-- código omitido -->
-
-<img src="cataratas-do-iguac.jpg" alt="Foto das Cataratas do Iguaçu, um lugar com muitas árvores e mata nativa preservada.">
-
-<!-- código omitido --><!-- código omitido -->
-
-<img src="cataratas-do-iguacu.jpg" alt="Foto das Cataratas do Iguaçu, um lugar com muitas árvores e mata nativa preservada.">
-
-<!-- código omitido --><!-- código omitido -->
-
-<a href="https://www.youtube.com/v=ILh7nDEKGqc&pp=ygUXSW1wYWN0byBkbyBEZXNtYXRhbWVudG8%3D" class="cta-button" target="_blank">Como impacta o mundo? <i class="fa-solid fa-arrow-up-right-from-square" style="color: var(--text-color);"></i></a>
-
-<!-- código omitido --><!-- código omitido -->
-
-<a href="https://www.youtube.com/watch?v=IIh7nDEkGqc&pp=ygUXSW1wYWN0byBkbyBEZXMgbWF0YW1lbnQ%3D" class="cta-button" target="_blank">Como impacta o mundo? <i class="fa-solid fa-arrow-up-right-from-square" style="color: var(--text-color);"></i></a>
-
-<!-- código omitido -->/* código omitido */
-
-/* Responsividade */
-@media (max-width: 768px) {
-    .conteudo {
-        width: 90%;
-    }
-
-    nav ul {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-    }
-
-    nav ul li {
-        margin: 5px 0;
-    }
-
-    .cta-button {
-        width: 100%;
-    }
-}projeto-agrinho-desmatamento
-Página para refletir sobre o desmatamento.
+</html>
